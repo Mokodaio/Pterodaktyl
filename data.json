@@ -1,1022 +1,1277 @@
 [
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T00:54:04.000Z"
+    "date": "2025-08-02T00:54:04.000Z",
+    "window": 1
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T01:24:04.000Z"
+    "date": "2025-08-02T01:24:04.000Z",
+    "window": 2
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T01:54:04.000Z"
+    "date": "2025-08-02T01:54:04.000Z",
+    "window": 3
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T02:24:04.000Z"
+    "date": "2025-08-02T02:24:04.000Z",
+    "window": 4
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T02:54:04.000Z"
+    "date": "2025-08-02T02:54:04.000Z",
+    "window": 5
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T03:24:04.000Z"
+    "date": "2025-08-02T03:24:04.000Z",
+    "window": 6
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T03:54:04.000Z"
+    "date": "2025-08-02T03:54:04.000Z",
+    "window": 7
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T04:24:04.000Z"
+    "date": "2025-08-02T04:24:04.000Z",
+    "window": 8
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T04:54:04.000Z"
+    "date": "2025-08-02T04:54:04.000Z",
+    "window": 9
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T05:24:04.000Z"
+    "date": "2025-08-02T05:24:04.000Z",
+    "window": 10
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T05:54:04.000Z"
+    "date": "2025-08-02T05:54:04.000Z",
+    "window": 11
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T06:24:04.000Z"
+    "date": "2025-08-02T06:24:04.000Z",
+    "window": 12
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T06:54:04.000Z"
+    "date": "2025-08-02T06:54:04.000Z",
+    "window": 13
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T07:24:04.000Z"
+    "date": "2025-08-02T07:24:04.000Z",
+    "window": 14
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T07:54:04.000Z"
+    "date": "2025-08-02T07:54:04.000Z",
+    "window": 15
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T08:24:04.000Z"
+    "date": "2025-08-02T08:24:04.000Z",
+    "window": 16
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T08:54:04.000Z"
+    "date": "2025-08-02T08:54:04.000Z",
+    "window": 17
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T09:24:04.000Z"
+    "date": "2025-08-02T09:24:04.000Z",
+    "window": 18
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T09:54:04.000Z"
+    "date": "2025-08-02T09:54:04.000Z",
+    "window": 19
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T10:24:04.000Z"
+    "date": "2025-08-02T10:24:04.000Z",
+    "window": 20
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T10:54:04.000Z"
+    "date": "2025-08-02T10:54:04.000Z",
+    "window": 21
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T11:24:04.000Z"
+    "date": "2025-08-02T11:24:04.000Z",
+    "window": 22
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T11:54:04.000Z"
+    "date": "2025-08-02T11:54:04.000Z",
+    "window": 23
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T12:24:04.000Z"
+    "date": "2025-08-02T12:24:04.000Z",
+    "window": 24
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T12:54:04.000Z"
+    "date": "2025-08-02T12:54:04.000Z",
+    "window": 25
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T13:24:04.000Z"
+    "date": "2025-08-02T13:24:04.000Z",
+    "window": 26
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T13:54:04.000Z"
+    "date": "2025-08-02T13:54:04.000Z",
+    "window": 27
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T14:24:04.000Z"
+    "date": "2025-08-02T14:24:04.000Z",
+    "window": 28
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T14:54:04.000Z"
+    "date": "2025-08-02T14:54:04.000Z",
+    "window": 29
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T15:24:04.000Z"
+    "date": "2025-08-02T15:24:04.000Z",
+    "window": 30
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T15:54:04.000Z"
+    "date": "2025-08-02T15:54:04.000Z",
+    "window": 31
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T16:24:04.000Z"
+    "date": "2025-08-02T16:24:04.000Z",
+    "window": 32
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T16:54:04.000Z"
+    "date": "2025-08-02T16:54:04.000Z",
+    "window": 33
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T17:24:04.000Z"
+    "date": "2025-08-02T17:24:04.000Z",
+    "window": 34
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T17:54:04.000Z"
+    "date": "2025-08-02T17:54:04.000Z",
+    "window": 35
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T18:24:04.000Z"
+    "date": "2025-08-02T18:24:04.000Z",
+    "window": 36
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T18:54:04.000Z"
+    "date": "2025-08-02T18:54:04.000Z",
+    "window": 37
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T19:24:04.000Z"
+    "date": "2025-08-02T19:24:04.000Z",
+    "window": 38
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T19:54:04.000Z"
+    "date": "2025-08-02T19:54:04.000Z",
+    "window": 39
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T20:24:04.000Z"
+    "date": "2025-08-02T20:24:04.000Z",
+    "window": 40
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T20:54:04.000Z"
+    "date": "2025-08-02T20:54:04.000Z",
+    "window": 41
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T21:24:04.000Z"
+    "date": "2025-08-02T21:24:04.000Z",
+    "window": 42
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T21:54:04.000Z"
+    "date": "2025-08-02T21:54:04.000Z",
+    "window": 43
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T22:24:04.000Z"
+    "date": "2025-08-02T22:24:04.000Z",
+    "window": 44
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T22:54:04.000Z"
+    "date": "2025-08-02T22:54:04.000Z",
+    "window": 45
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T23:24:04.000Z"
+    "date": "2025-08-02T23:24:04.000Z",
+    "window": 46
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-02T23:54:04.000Z"
+    "date": "2025-08-02T23:54:04.000Z",
+    "window": 47
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-03T00:24:04.000Z"
+    "date": "2025-08-03T00:24:04.000Z",
+    "window": 48
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-03T00:54:04.000Z"
+    "date": "2025-08-03T00:54:04.000Z",
+    "window": 49
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-03T01:24:04.000Z"
+    "date": "2025-08-03T01:24:04.000Z",
+    "window": 50
   },
   {
     "name": "Renegat Baulus",
-    "date": "2025-08-03T01:54:04.000Z"
+    "date": "2025-08-03T01:54:04.000Z",
+    "window": 51
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T09:33:47.000Z"
+    "date": "2025-08-01T09:33:47.000Z",
+    "window": 1
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T10:04:23.000Z"
+    "date": "2025-08-01T10:04:23.000Z",
+    "window": 2
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T10:34:59.000Z"
+    "date": "2025-08-01T10:34:59.000Z",
+    "window": 3
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T11:05:35.000Z"
+    "date": "2025-08-01T11:05:35.000Z",
+    "window": 4
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T11:36:11.000Z"
+    "date": "2025-08-01T11:36:11.000Z",
+    "window": 5
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T12:06:47.000Z"
+    "date": "2025-08-01T12:06:47.000Z",
+    "window": 6
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T12:37:23.000Z"
+    "date": "2025-08-01T12:37:23.000Z",
+    "window": 7
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T13:07:59.000Z"
+    "date": "2025-08-01T13:07:59.000Z",
+    "window": 8
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T13:38:35.000Z"
+    "date": "2025-08-01T13:38:35.000Z",
+    "window": 9
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T14:09:11.000Z"
+    "date": "2025-08-01T14:09:11.000Z",
+    "window": 10
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T14:39:47.000Z"
+    "date": "2025-08-01T14:39:47.000Z",
+    "window": 11
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T15:10:23.000Z"
+    "date": "2025-08-01T15:10:23.000Z",
+    "window": 12
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T15:40:59.000Z"
+    "date": "2025-08-01T15:40:59.000Z",
+    "window": 13
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T16:11:35.000Z"
+    "date": "2025-08-01T16:11:35.000Z",
+    "window": 14
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T16:42:11.000Z"
+    "date": "2025-08-01T16:42:11.000Z",
+    "window": 15
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T17:12:47.000Z"
+    "date": "2025-08-01T17:12:47.000Z",
+    "window": 16
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T17:43:23.000Z"
+    "date": "2025-08-01T17:43:23.000Z",
+    "window": 17
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T18:13:59.000Z"
+    "date": "2025-08-01T18:13:59.000Z",
+    "window": 18
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T18:44:35.000Z"
+    "date": "2025-08-01T18:44:35.000Z",
+    "window": 19
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T19:15:11.000Z"
+    "date": "2025-08-01T19:15:11.000Z",
+    "window": 20
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T19:45:47.000Z"
+    "date": "2025-08-01T19:45:47.000Z",
+    "window": 21
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T20:16:23.000Z"
+    "date": "2025-08-01T20:16:23.000Z",
+    "window": 22
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T20:46:59.000Z"
+    "date": "2025-08-01T20:46:59.000Z",
+    "window": 23
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T21:17:35.000Z"
+    "date": "2025-08-01T21:17:35.000Z",
+    "window": 24
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T21:48:11.000Z"
+    "date": "2025-08-01T21:48:11.000Z",
+    "window": 25
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T22:18:47.000Z"
+    "date": "2025-08-01T22:18:47.000Z",
+    "window": 26
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T22:49:23.000Z"
+    "date": "2025-08-01T22:49:23.000Z",
+    "window": 27
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T23:19:59.000Z"
+    "date": "2025-08-01T23:19:59.000Z",
+    "window": 28
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-01T23:50:35.000Z"
+    "date": "2025-08-01T23:50:35.000Z",
+    "window": 29
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T00:21:11.000Z"
+    "date": "2025-08-02T00:21:11.000Z",
+    "window": 30
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T00:51:47.000Z"
+    "date": "2025-08-02T00:51:47.000Z",
+    "window": 31
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T01:22:23.000Z"
+    "date": "2025-08-02T01:22:23.000Z",
+    "window": 32
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T01:52:59.000Z"
+    "date": "2025-08-02T01:52:59.000Z",
+    "window": 33
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T02:23:35.000Z"
+    "date": "2025-08-02T02:23:35.000Z",
+    "window": 34
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T02:54:11.000Z"
+    "date": "2025-08-02T02:54:11.000Z",
+    "window": 35
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T03:24:47.000Z"
+    "date": "2025-08-02T03:24:47.000Z",
+    "window": 36
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T03:55:23.000Z"
+    "date": "2025-08-02T03:55:23.000Z",
+    "window": 37
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T04:25:59.000Z"
+    "date": "2025-08-02T04:25:59.000Z",
+    "window": 38
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T04:56:35.000Z"
+    "date": "2025-08-02T04:56:35.000Z",
+    "window": 39
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T05:27:11.000Z"
+    "date": "2025-08-02T05:27:11.000Z",
+    "window": 40
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T05:57:47.000Z"
+    "date": "2025-08-02T05:57:47.000Z",
+    "window": 41
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T06:28:23.000Z"
+    "date": "2025-08-02T06:28:23.000Z",
+    "window": 42
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T06:58:59.000Z"
+    "date": "2025-08-02T06:58:59.000Z",
+    "window": 43
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T07:29:35.000Z"
+    "date": "2025-08-02T07:29:35.000Z",
+    "window": 44
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T08:00:11.000Z"
+    "date": "2025-08-02T08:00:11.000Z",
+    "window": 45
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T08:30:47.000Z"
+    "date": "2025-08-02T08:30:47.000Z",
+    "window": 46
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T09:01:23.000Z"
+    "date": "2025-08-02T09:01:23.000Z",
+    "window": 47
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T09:31:59.000Z"
+    "date": "2025-08-02T09:31:59.000Z",
+    "window": 48
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T10:02:35.000Z"
+    "date": "2025-08-02T10:02:35.000Z",
+    "window": 49
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T10:33:11.000Z"
+    "date": "2025-08-02T10:33:11.000Z",
+    "window": 50
   },
   {
     "name": "Piekielny Arcymag",
-    "date": "2025-08-02T11:03:47.000Z"
+    "date": "2025-08-02T11:03:47.000Z",
+    "window": 51
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T13:02:48.000Z"
+    "date": "2025-08-01T13:02:48.000Z",
+    "window": 1
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T13:34:00.000Z"
+    "date": "2025-08-01T13:34:00.000Z",
+    "window": 2
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T14:05:12.000Z"
+    "date": "2025-08-01T14:05:12.000Z",
+    "window": 3
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T14:36:24.000Z"
+    "date": "2025-08-01T14:36:24.000Z",
+    "window": 4
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T15:07:36.000Z"
+    "date": "2025-08-01T15:07:36.000Z",
+    "window": 5
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T15:38:48.000Z"
+    "date": "2025-08-01T15:38:48.000Z",
+    "window": 6
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T16:10:00.000Z"
+    "date": "2025-08-01T16:10:00.000Z",
+    "window": 7
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T16:41:12.000Z"
+    "date": "2025-08-01T16:41:12.000Z",
+    "window": 8
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T17:12:24.000Z"
+    "date": "2025-08-01T17:12:24.000Z",
+    "window": 9
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T17:43:36.000Z"
+    "date": "2025-08-01T17:43:36.000Z",
+    "window": 10
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T18:14:48.000Z"
+    "date": "2025-08-01T18:14:48.000Z",
+    "window": 11
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T18:46:00.000Z"
+    "date": "2025-08-01T18:46:00.000Z",
+    "window": 12
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T19:17:12.000Z"
+    "date": "2025-08-01T19:17:12.000Z",
+    "window": 13
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T19:48:24.000Z"
+    "date": "2025-08-01T19:48:24.000Z",
+    "window": 14
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T20:19:36.000Z"
+    "date": "2025-08-01T20:19:36.000Z",
+    "window": 15
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T20:50:48.000Z"
+    "date": "2025-08-01T20:50:48.000Z",
+    "window": 16
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T21:22:00.000Z"
+    "date": "2025-08-01T21:22:00.000Z",
+    "window": 17
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T21:53:12.000Z"
+    "date": "2025-08-01T21:53:12.000Z",
+    "window": 18
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T22:24:24.000Z"
+    "date": "2025-08-01T22:24:24.000Z",
+    "window": 19
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T22:55:36.000Z"
+    "date": "2025-08-01T22:55:36.000Z",
+    "window": 20
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T23:26:48.000Z"
+    "date": "2025-08-01T23:26:48.000Z",
+    "window": 21
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-01T23:58:00.000Z"
+    "date": "2025-08-01T23:58:00.000Z",
+    "window": 22
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T00:29:12.000Z"
+    "date": "2025-08-02T00:29:12.000Z",
+    "window": 23
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T01:00:24.000Z"
+    "date": "2025-08-02T01:00:24.000Z",
+    "window": 24
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T01:31:36.000Z"
+    "date": "2025-08-02T01:31:36.000Z",
+    "window": 25
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T02:02:48.000Z"
+    "date": "2025-08-02T02:02:48.000Z",
+    "window": 26
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T02:34:00.000Z"
+    "date": "2025-08-02T02:34:00.000Z",
+    "window": 27
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T03:05:12.000Z"
+    "date": "2025-08-02T03:05:12.000Z",
+    "window": 28
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T03:36:24.000Z"
+    "date": "2025-08-02T03:36:24.000Z",
+    "window": 29
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T04:07:36.000Z"
+    "date": "2025-08-02T04:07:36.000Z",
+    "window": 30
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T04:38:48.000Z"
+    "date": "2025-08-02T04:38:48.000Z",
+    "window": 31
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T05:10:00.000Z"
+    "date": "2025-08-02T05:10:00.000Z",
+    "window": 32
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T05:41:12.000Z"
+    "date": "2025-08-02T05:41:12.000Z",
+    "window": 33
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T06:12:24.000Z"
+    "date": "2025-08-02T06:12:24.000Z",
+    "window": 34
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T06:43:36.000Z"
+    "date": "2025-08-02T06:43:36.000Z",
+    "window": 35
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T07:14:48.000Z"
+    "date": "2025-08-02T07:14:48.000Z",
+    "window": 36
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T07:46:00.000Z"
+    "date": "2025-08-02T07:46:00.000Z",
+    "window": 37
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T08:17:12.000Z"
+    "date": "2025-08-02T08:17:12.000Z",
+    "window": 38
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T08:48:24.000Z"
+    "date": "2025-08-02T08:48:24.000Z",
+    "window": 39
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T09:19:36.000Z"
+    "date": "2025-08-02T09:19:36.000Z",
+    "window": 40
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T09:50:48.000Z"
+    "date": "2025-08-02T09:50:48.000Z",
+    "window": 41
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T10:22:00.000Z"
+    "date": "2025-08-02T10:22:00.000Z",
+    "window": 42
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T10:53:12.000Z"
+    "date": "2025-08-02T10:53:12.000Z",
+    "window": 43
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T11:24:24.000Z"
+    "date": "2025-08-02T11:24:24.000Z",
+    "window": 44
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T11:55:36.000Z"
+    "date": "2025-08-02T11:55:36.000Z",
+    "window": 45
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T12:26:48.000Z"
+    "date": "2025-08-02T12:26:48.000Z",
+    "window": 46
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T12:58:00.000Z"
+    "date": "2025-08-02T12:58:00.000Z",
+    "window": 47
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T13:29:12.000Z"
+    "date": "2025-08-02T13:29:12.000Z",
+    "window": 48
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T14:00:24.000Z"
+    "date": "2025-08-02T14:00:24.000Z",
+    "window": 49
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T14:31:36.000Z"
+    "date": "2025-08-02T14:31:36.000Z",
+    "window": 50
   },
   {
     "name": "Versus Zoons",
-    "date": "2025-08-02T15:02:48.000Z"
+    "date": "2025-08-02T15:02:48.000Z",
+    "window": 51
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T12:04:06.000Z"
+    "date": "2025-08-01T12:04:06.000Z",
+    "window": 1
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T12:35:54.000Z"
+    "date": "2025-08-01T12:35:54.000Z",
+    "window": 2
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T13:07:42.000Z"
+    "date": "2025-08-01T13:07:42.000Z",
+    "window": 3
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T13:39:30.000Z"
+    "date": "2025-08-01T13:39:30.000Z",
+    "window": 4
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T14:11:18.000Z"
+    "date": "2025-08-01T14:11:18.000Z",
+    "window": 5
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T14:43:06.000Z"
+    "date": "2025-08-01T14:43:06.000Z",
+    "window": 6
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T15:14:54.000Z"
+    "date": "2025-08-01T15:14:54.000Z",
+    "window": 7
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T15:46:42.000Z"
+    "date": "2025-08-01T15:46:42.000Z",
+    "window": 8
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T16:18:30.000Z"
+    "date": "2025-08-01T16:18:30.000Z",
+    "window": 9
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T16:50:18.000Z"
+    "date": "2025-08-01T16:50:18.000Z",
+    "window": 10
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T17:22:06.000Z"
+    "date": "2025-08-01T17:22:06.000Z",
+    "window": 11
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T17:53:54.000Z"
+    "date": "2025-08-01T17:53:54.000Z",
+    "window": 12
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T18:25:42.000Z"
+    "date": "2025-08-01T18:25:42.000Z",
+    "window": 13
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T18:57:30.000Z"
+    "date": "2025-08-01T18:57:30.000Z",
+    "window": 14
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T19:29:18.000Z"
+    "date": "2025-08-01T19:29:18.000Z",
+    "window": 15
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T20:01:06.000Z"
+    "date": "2025-08-01T20:01:06.000Z",
+    "window": 16
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T20:32:54.000Z"
+    "date": "2025-08-01T20:32:54.000Z",
+    "window": 17
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T21:04:42.000Z"
+    "date": "2025-08-01T21:04:42.000Z",
+    "window": 18
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T21:36:30.000Z"
+    "date": "2025-08-01T21:36:30.000Z",
+    "window": 19
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T22:08:18.000Z"
+    "date": "2025-08-01T22:08:18.000Z",
+    "window": 20
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T22:40:06.000Z"
+    "date": "2025-08-01T22:40:06.000Z",
+    "window": 21
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T23:11:54.000Z"
+    "date": "2025-08-01T23:11:54.000Z",
+    "window": 22
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-01T23:43:42.000Z"
+    "date": "2025-08-01T23:43:42.000Z",
+    "window": 23
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T00:15:30.000Z"
+    "date": "2025-08-02T00:15:30.000Z",
+    "window": 24
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T00:47:18.000Z"
+    "date": "2025-08-02T00:47:18.000Z",
+    "window": 25
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T01:19:06.000Z"
+    "date": "2025-08-02T01:19:06.000Z",
+    "window": 26
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T01:50:54.000Z"
+    "date": "2025-08-02T01:50:54.000Z",
+    "window": 27
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T02:22:42.000Z"
+    "date": "2025-08-02T02:22:42.000Z",
+    "window": 28
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T02:54:30.000Z"
+    "date": "2025-08-02T02:54:30.000Z",
+    "window": 29
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T03:26:18.000Z"
+    "date": "2025-08-02T03:26:18.000Z",
+    "window": 30
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T03:58:06.000Z"
+    "date": "2025-08-02T03:58:06.000Z",
+    "window": 31
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T04:29:54.000Z"
+    "date": "2025-08-02T04:29:54.000Z",
+    "window": 32
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T05:01:42.000Z"
+    "date": "2025-08-02T05:01:42.000Z",
+    "window": 33
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T05:33:30.000Z"
+    "date": "2025-08-02T05:33:30.000Z",
+    "window": 34
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T06:05:18.000Z"
+    "date": "2025-08-02T06:05:18.000Z",
+    "window": 35
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T06:37:06.000Z"
+    "date": "2025-08-02T06:37:06.000Z",
+    "window": 36
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T07:08:54.000Z"
+    "date": "2025-08-02T07:08:54.000Z",
+    "window": 37
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T07:40:42.000Z"
+    "date": "2025-08-02T07:40:42.000Z",
+    "window": 38
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T08:12:30.000Z"
+    "date": "2025-08-02T08:12:30.000Z",
+    "window": 39
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T08:44:18.000Z"
+    "date": "2025-08-02T08:44:18.000Z",
+    "window": 40
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T09:16:06.000Z"
+    "date": "2025-08-02T09:16:06.000Z",
+    "window": 41
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T09:47:54.000Z"
+    "date": "2025-08-02T09:47:54.000Z",
+    "window": 42
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T10:19:42.000Z"
+    "date": "2025-08-02T10:19:42.000Z",
+    "window": 43
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T10:51:30.000Z"
+    "date": "2025-08-02T10:51:30.000Z",
+    "window": 44
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T11:23:18.000Z"
+    "date": "2025-08-02T11:23:18.000Z",
+    "window": 45
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T11:55:06.000Z"
+    "date": "2025-08-02T11:55:06.000Z",
+    "window": 46
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T12:26:54.000Z"
+    "date": "2025-08-02T12:26:54.000Z",
+    "window": 47
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T12:58:42.000Z"
+    "date": "2025-08-02T12:58:42.000Z",
+    "window": 48
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T13:30:30.000Z"
+    "date": "2025-08-02T13:30:30.000Z",
+    "window": 49
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T14:02:18.000Z"
+    "date": "2025-08-02T14:02:18.000Z",
+    "window": 50
   },
   {
     "name": "Łowczyni Wspomnień",
-    "date": "2025-08-02T14:34:06.000Z"
+    "date": "2025-08-02T14:34:06.000Z",
+    "window": 51
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T06:48:51.000Z"
+    "date": "2025-08-02T06:48:51.000Z",
+    "window": 1
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T07:21:15.000Z"
+    "date": "2025-08-02T07:21:15.000Z",
+    "window": 2
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T07:53:39.000Z"
+    "date": "2025-08-02T07:53:39.000Z",
+    "window": 3
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T08:26:03.000Z"
+    "date": "2025-08-02T08:26:03.000Z",
+    "window": 4
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T08:58:27.000Z"
+    "date": "2025-08-02T08:58:27.000Z",
+    "window": 5
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T09:30:51.000Z"
+    "date": "2025-08-02T09:30:51.000Z",
+    "window": 6
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T10:03:15.000Z"
+    "date": "2025-08-02T10:03:15.000Z",
+    "window": 7
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T10:35:39.000Z"
+    "date": "2025-08-02T10:35:39.000Z",
+    "window": 8
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T11:08:03.000Z"
+    "date": "2025-08-02T11:08:03.000Z",
+    "window": 9
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T11:40:27.000Z"
+    "date": "2025-08-02T11:40:27.000Z",
+    "window": 10
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T12:12:51.000Z"
+    "date": "2025-08-02T12:12:51.000Z",
+    "window": 11
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T12:45:15.000Z"
+    "date": "2025-08-02T12:45:15.000Z",
+    "window": 12
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T13:17:39.000Z"
+    "date": "2025-08-02T13:17:39.000Z",
+    "window": 13
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T13:50:03.000Z"
+    "date": "2025-08-02T13:50:03.000Z",
+    "window": 14
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T14:22:27.000Z"
+    "date": "2025-08-02T14:22:27.000Z",
+    "window": 15
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T14:54:51.000Z"
+    "date": "2025-08-02T14:54:51.000Z",
+    "window": 16
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T15:27:15.000Z"
+    "date": "2025-08-02T15:27:15.000Z",
+    "window": 17
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T15:59:39.000Z"
+    "date": "2025-08-02T15:59:39.000Z",
+    "window": 18
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T16:32:03.000Z"
+    "date": "2025-08-02T16:32:03.000Z",
+    "window": 19
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T17:04:27.000Z"
+    "date": "2025-08-02T17:04:27.000Z",
+    "window": 20
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T17:36:51.000Z"
+    "date": "2025-08-02T17:36:51.000Z",
+    "window": 21
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T18:09:15.000Z"
+    "date": "2025-08-02T18:09:15.000Z",
+    "window": 22
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T18:41:39.000Z"
+    "date": "2025-08-02T18:41:39.000Z",
+    "window": 23
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T19:14:03.000Z"
+    "date": "2025-08-02T19:14:03.000Z",
+    "window": 24
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T19:46:27.000Z"
+    "date": "2025-08-02T19:46:27.000Z",
+    "window": 25
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T20:18:51.000Z"
+    "date": "2025-08-02T20:18:51.000Z",
+    "window": 26
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T20:51:15.000Z"
+    "date": "2025-08-02T20:51:15.000Z",
+    "window": 27
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T21:23:39.000Z"
+    "date": "2025-08-02T21:23:39.000Z",
+    "window": 28
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T21:56:03.000Z"
+    "date": "2025-08-02T21:56:03.000Z",
+    "window": 29
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T22:28:27.000Z"
+    "date": "2025-08-02T22:28:27.000Z",
+    "window": 30
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T23:00:51.000Z"
+    "date": "2025-08-02T23:00:51.000Z",
+    "window": 31
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-02T23:33:15.000Z"
+    "date": "2025-08-02T23:33:15.000Z",
+    "window": 32
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T00:05:39.000Z"
+    "date": "2025-08-03T00:05:39.000Z",
+    "window": 33
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T00:38:03.000Z"
+    "date": "2025-08-03T00:38:03.000Z",
+    "window": 34
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T01:10:27.000Z"
+    "date": "2025-08-03T01:10:27.000Z",
+    "window": 35
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T01:42:51.000Z"
+    "date": "2025-08-03T01:42:51.000Z",
+    "window": 36
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T02:15:15.000Z"
+    "date": "2025-08-03T02:15:15.000Z",
+    "window": 37
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T02:47:39.000Z"
+    "date": "2025-08-03T02:47:39.000Z",
+    "window": 38
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T03:20:03.000Z"
+    "date": "2025-08-03T03:20:03.000Z",
+    "window": 39
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T03:52:27.000Z"
+    "date": "2025-08-03T03:52:27.000Z",
+    "window": 40
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T04:24:51.000Z"
+    "date": "2025-08-03T04:24:51.000Z",
+    "window": 41
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T04:57:15.000Z"
+    "date": "2025-08-03T04:57:15.000Z",
+    "window": 42
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T05:29:39.000Z"
+    "date": "2025-08-03T05:29:39.000Z",
+    "window": 43
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T06:02:03.000Z"
+    "date": "2025-08-03T06:02:03.000Z",
+    "window": 44
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T06:34:27.000Z"
+    "date": "2025-08-03T06:34:27.000Z",
+    "window": 45
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T07:06:51.000Z"
+    "date": "2025-08-03T07:06:51.000Z",
+    "window": 46
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T07:39:15.000Z"
+    "date": "2025-08-03T07:39:15.000Z",
+    "window": 47
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T08:11:39.000Z"
+    "date": "2025-08-03T08:11:39.000Z",
+    "window": 48
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T08:44:03.000Z"
+    "date": "2025-08-03T08:44:03.000Z",
+    "window": 49
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T09:16:27.000Z"
+    "date": "2025-08-03T09:16:27.000Z",
+    "window": 50
   },
   {
     "name": "Przyzywacz demonów",
-    "date": "2025-08-03T09:48:51.000Z"
+    "date": "2025-08-03T09:48:51.000Z",
+    "window": 51
   }
 ]
