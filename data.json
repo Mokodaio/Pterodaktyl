@@ -1,512 +1,1022 @@
 [
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T06:31:49.000Z",
+    "date": "2025-08-26T00:40:49.000Z",
     "window": 1
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T07:00:37.000Z",
+    "date": "2025-08-26T01:09:37.000Z",
     "window": 2
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T07:29:25.000Z",
+    "date": "2025-08-26T01:38:25.000Z",
     "window": 3
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T07:58:13.000Z",
+    "date": "2025-08-26T02:07:13.000Z",
     "window": 4
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T08:27:01.000Z",
+    "date": "2025-08-26T02:36:01.000Z",
     "window": 5
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T08:55:49.000Z",
+    "date": "2025-08-26T03:04:49.000Z",
     "window": 6
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T09:24:37.000Z",
+    "date": "2025-08-26T03:33:37.000Z",
     "window": 7
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T09:53:25.000Z",
+    "date": "2025-08-26T04:02:25.000Z",
     "window": 8
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T10:22:13.000Z",
+    "date": "2025-08-26T04:31:13.000Z",
     "window": 9
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T10:51:01.000Z",
+    "date": "2025-08-26T05:00:01.000Z",
     "window": 10
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T11:19:49.000Z",
+    "date": "2025-08-26T05:28:49.000Z",
     "window": 11
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T11:48:37.000Z",
+    "date": "2025-08-26T05:57:37.000Z",
     "window": 12
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T12:17:25.000Z",
+    "date": "2025-08-26T06:26:25.000Z",
     "window": 13
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T12:46:13.000Z",
+    "date": "2025-08-26T06:55:13.000Z",
     "window": 14
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T13:15:01.000Z",
+    "date": "2025-08-26T07:24:01.000Z",
     "window": 15
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T13:43:49.000Z",
+    "date": "2025-08-26T07:52:49.000Z",
     "window": 16
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T14:12:37.000Z",
+    "date": "2025-08-26T08:21:37.000Z",
     "window": 17
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T14:41:25.000Z",
+    "date": "2025-08-26T08:50:25.000Z",
     "window": 18
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T15:10:13.000Z",
+    "date": "2025-08-26T09:19:13.000Z",
     "window": 19
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T15:39:01.000Z",
+    "date": "2025-08-26T09:48:01.000Z",
     "window": 20
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T16:07:49.000Z",
+    "date": "2025-08-26T10:16:49.000Z",
     "window": 21
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T16:36:37.000Z",
+    "date": "2025-08-26T10:45:37.000Z",
     "window": 22
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T17:05:25.000Z",
+    "date": "2025-08-26T11:14:25.000Z",
     "window": 23
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T17:34:13.000Z",
+    "date": "2025-08-26T11:43:13.000Z",
     "window": 24
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T18:03:01.000Z",
+    "date": "2025-08-26T12:12:01.000Z",
     "window": 25
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T18:31:49.000Z",
+    "date": "2025-08-26T12:40:49.000Z",
     "window": 26
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T19:00:37.000Z",
+    "date": "2025-08-26T13:09:37.000Z",
     "window": 27
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T19:29:25.000Z",
+    "date": "2025-08-26T13:38:25.000Z",
     "window": 28
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T19:58:13.000Z",
+    "date": "2025-08-26T14:07:13.000Z",
     "window": 29
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T20:27:01.000Z",
+    "date": "2025-08-26T14:36:01.000Z",
     "window": 30
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T20:55:49.000Z",
+    "date": "2025-08-26T15:04:49.000Z",
     "window": 31
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T21:24:37.000Z",
+    "date": "2025-08-26T15:33:37.000Z",
     "window": 32
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T21:53:25.000Z",
+    "date": "2025-08-26T16:02:25.000Z",
     "window": 33
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T22:22:13.000Z",
+    "date": "2025-08-26T16:31:13.000Z",
     "window": 34
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T22:51:01.000Z",
+    "date": "2025-08-26T17:00:01.000Z",
     "window": 35
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T23:19:49.000Z",
+    "date": "2025-08-26T17:28:49.000Z",
     "window": 36
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-22T23:48:37.000Z",
+    "date": "2025-08-26T17:57:37.000Z",
     "window": 37
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T00:17:25.000Z",
+    "date": "2025-08-26T18:26:25.000Z",
     "window": 38
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T00:46:13.000Z",
+    "date": "2025-08-26T18:55:13.000Z",
     "window": 39
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T01:15:01.000Z",
+    "date": "2025-08-26T19:24:01.000Z",
     "window": 40
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T01:43:49.000Z",
+    "date": "2025-08-26T19:52:49.000Z",
     "window": 41
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T02:12:37.000Z",
+    "date": "2025-08-26T20:21:37.000Z",
     "window": 42
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T02:41:25.000Z",
+    "date": "2025-08-26T20:50:25.000Z",
     "window": 43
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T03:10:13.000Z",
+    "date": "2025-08-26T21:19:13.000Z",
     "window": 44
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T03:39:01.000Z",
+    "date": "2025-08-26T21:48:01.000Z",
     "window": 45
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T04:07:49.000Z",
+    "date": "2025-08-26T22:16:49.000Z",
     "window": 46
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T04:36:37.000Z",
+    "date": "2025-08-26T22:45:37.000Z",
     "window": 47
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T05:05:25.000Z",
+    "date": "2025-08-26T23:14:25.000Z",
     "window": 48
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T05:34:13.000Z",
+    "date": "2025-08-26T23:43:13.000Z",
     "window": 49
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T06:03:01.000Z",
+    "date": "2025-08-27T00:12:01.000Z",
     "window": 50
   },
   {
     "name": "Dziewicza Orlica",
-    "date": "2025-08-23T06:31:49.000Z",
+    "date": "2025-08-27T00:40:49.000Z",
     "window": 51
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T03:09:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T10:43:41.000Z",
     "window": 1
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T03:38:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T11:14:17.000Z",
     "window": 2
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T04:08:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T11:44:53.000Z",
     "window": 3
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T04:37:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T12:15:29.000Z",
     "window": 4
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T05:06:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T12:46:05.000Z",
     "window": 5
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T05:36:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T13:16:41.000Z",
     "window": 6
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T06:05:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T13:47:17.000Z",
     "window": 7
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T06:35:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T14:17:53.000Z",
     "window": 8
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T07:04:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T14:48:29.000Z",
     "window": 9
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T07:33:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T15:19:05.000Z",
     "window": 10
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T08:03:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T15:49:41.000Z",
     "window": 11
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T08:32:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T16:20:17.000Z",
     "window": 12
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T09:02:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T16:50:53.000Z",
     "window": 13
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T09:31:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T17:21:29.000Z",
     "window": 14
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T10:00:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T17:52:05.000Z",
     "window": 15
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T10:30:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T18:22:41.000Z",
     "window": 16
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T10:59:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T18:53:17.000Z",
     "window": 17
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T11:29:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T19:23:53.000Z",
     "window": 18
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T11:58:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T19:54:29.000Z",
     "window": 19
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T12:27:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T20:25:05.000Z",
     "window": 20
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T12:57:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T20:55:41.000Z",
     "window": 21
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T13:26:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T21:26:17.000Z",
     "window": 22
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T13:56:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T21:56:53.000Z",
     "window": 23
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T14:25:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T22:27:29.000Z",
     "window": 24
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T14:54:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T22:58:05.000Z",
     "window": 25
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T15:24:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T23:28:41.000Z",
     "window": 26
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T15:53:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-26T23:59:17.000Z",
     "window": 27
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T16:23:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T00:29:53.000Z",
     "window": 28
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T16:52:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T01:00:29.000Z",
     "window": 29
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T17:21:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T01:31:05.000Z",
     "window": 30
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T17:51:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T02:01:41.000Z",
     "window": 31
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T18:20:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T02:32:17.000Z",
     "window": 32
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T18:50:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T03:02:53.000Z",
     "window": 33
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T19:19:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T03:33:29.000Z",
     "window": 34
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T19:48:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T04:04:05.000Z",
     "window": 35
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T20:18:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T04:34:41.000Z",
     "window": 36
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T20:47:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T05:05:17.000Z",
     "window": 37
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T21:17:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T05:35:53.000Z",
     "window": 38
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T21:46:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T06:06:29.000Z",
     "window": 39
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T22:15:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T06:37:05.000Z",
     "window": 40
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T22:45:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T07:07:41.000Z",
     "window": 41
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T23:14:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T07:38:17.000Z",
     "window": 42
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-21T23:44:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T08:08:53.000Z",
     "window": 43
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T00:13:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T08:39:29.000Z",
     "window": 44
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T00:42:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T09:10:05.000Z",
     "window": 45
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T01:12:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T09:40:41.000Z",
     "window": 46
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T01:41:41.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T10:11:17.000Z",
     "window": 47
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T02:11:05.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T10:41:53.000Z",
     "window": 48
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T02:40:29.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T11:12:29.000Z",
     "window": 49
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T03:09:53.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T11:43:05.000Z",
     "window": 50
   },
   {
-    "name": "Zabójczy królik",
-    "date": "2025-08-22T03:39:17.000Z",
+    "name": "Piekielny Arcymag",
+    "date": "2025-08-27T12:13:41.000Z",
+    "window": 51
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T03:28:57.000Z",
+    "window": 1
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T04:00:09.000Z",
+    "window": 2
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T04:31:21.000Z",
+    "window": 3
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T05:02:33.000Z",
+    "window": 4
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T05:33:45.000Z",
+    "window": 5
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T06:04:57.000Z",
+    "window": 6
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T06:36:09.000Z",
+    "window": 7
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T07:07:21.000Z",
+    "window": 8
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T07:38:33.000Z",
+    "window": 9
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T08:09:45.000Z",
+    "window": 10
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T08:40:57.000Z",
+    "window": 11
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T09:12:09.000Z",
+    "window": 12
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T09:43:21.000Z",
+    "window": 13
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T10:14:33.000Z",
+    "window": 14
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T10:45:45.000Z",
+    "window": 15
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T11:16:57.000Z",
+    "window": 16
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T11:48:09.000Z",
+    "window": 17
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T12:19:21.000Z",
+    "window": 18
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T12:50:33.000Z",
+    "window": 19
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T13:21:45.000Z",
+    "window": 20
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T13:52:57.000Z",
+    "window": 21
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T14:24:09.000Z",
+    "window": 22
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T14:55:21.000Z",
+    "window": 23
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T15:26:33.000Z",
+    "window": 24
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T15:57:45.000Z",
+    "window": 25
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T16:28:57.000Z",
+    "window": 26
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T17:00:09.000Z",
+    "window": 27
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T17:31:21.000Z",
+    "window": 28
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T18:02:33.000Z",
+    "window": 29
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T18:33:45.000Z",
+    "window": 30
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T19:04:57.000Z",
+    "window": 31
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T19:36:09.000Z",
+    "window": 32
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T20:07:21.000Z",
+    "window": 33
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T20:38:33.000Z",
+    "window": 34
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T21:09:45.000Z",
+    "window": 35
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T21:40:57.000Z",
+    "window": 36
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T22:12:09.000Z",
+    "window": 37
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T22:43:21.000Z",
+    "window": 38
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T23:14:33.000Z",
+    "window": 39
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-26T23:45:45.000Z",
+    "window": 40
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T00:16:57.000Z",
+    "window": 41
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T00:48:09.000Z",
+    "window": 42
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T01:19:21.000Z",
+    "window": 43
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T01:50:33.000Z",
+    "window": 44
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T02:21:45.000Z",
+    "window": 45
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T02:52:57.000Z",
+    "window": 46
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T03:24:09.000Z",
+    "window": 47
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T03:55:21.000Z",
+    "window": 48
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T04:26:33.000Z",
+    "window": 49
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T04:57:45.000Z",
+    "window": 50
+  },
+  {
+    "name": "Versus Zoons",
+    "date": "2025-08-27T05:28:57.000Z",
+    "window": 51
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T04:16:31.000Z",
+    "window": 1
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T04:48:19.000Z",
+    "window": 2
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T05:20:07.000Z",
+    "window": 3
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T05:51:55.000Z",
+    "window": 4
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T06:23:43.000Z",
+    "window": 5
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T06:55:31.000Z",
+    "window": 6
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T07:27:19.000Z",
+    "window": 7
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T07:59:07.000Z",
+    "window": 8
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T08:30:55.000Z",
+    "window": 9
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T09:02:43.000Z",
+    "window": 10
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T09:34:31.000Z",
+    "window": 11
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T10:06:19.000Z",
+    "window": 12
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T10:38:07.000Z",
+    "window": 13
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T11:09:55.000Z",
+    "window": 14
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T11:41:43.000Z",
+    "window": 15
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T12:13:31.000Z",
+    "window": 16
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T12:45:19.000Z",
+    "window": 17
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T13:17:07.000Z",
+    "window": 18
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T13:48:55.000Z",
+    "window": 19
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T14:20:43.000Z",
+    "window": 20
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T14:52:31.000Z",
+    "window": 21
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T15:24:19.000Z",
+    "window": 22
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T15:56:07.000Z",
+    "window": 23
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T16:27:55.000Z",
+    "window": 24
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T16:59:43.000Z",
+    "window": 25
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T17:31:31.000Z",
+    "window": 26
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T18:03:19.000Z",
+    "window": 27
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T18:35:07.000Z",
+    "window": 28
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T19:06:55.000Z",
+    "window": 29
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T19:38:43.000Z",
+    "window": 30
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T20:10:31.000Z",
+    "window": 31
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T20:42:19.000Z",
+    "window": 32
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T21:14:07.000Z",
+    "window": 33
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T21:45:55.000Z",
+    "window": 34
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T22:17:43.000Z",
+    "window": 35
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T22:49:31.000Z",
+    "window": 36
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T23:21:19.000Z",
+    "window": 37
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-25T23:53:07.000Z",
+    "window": 38
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T00:24:55.000Z",
+    "window": 39
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T00:56:43.000Z",
+    "window": 40
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T01:28:31.000Z",
+    "window": 41
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T02:00:19.000Z",
+    "window": 42
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T02:32:07.000Z",
+    "window": 43
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T03:03:55.000Z",
+    "window": 44
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T03:35:43.000Z",
+    "window": 45
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T04:07:31.000Z",
+    "window": 46
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T04:39:19.000Z",
+    "window": 47
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T05:11:07.000Z",
+    "window": 48
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T05:42:55.000Z",
+    "window": 49
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T06:14:43.000Z",
+    "window": 50
+  },
+  {
+    "name": "Łowczyni Wspomnień",
+    "date": "2025-08-26T06:46:31.000Z",
     "window": 51
   }
 ]
